@@ -1,2 +1,1 @@
-# iresume
-its my interactive resume
+# slardardetenis.github.io
